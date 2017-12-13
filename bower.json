@@ -1,0 +1,6 @@
+{
+  "name": "formly-apicheck-disabled",
+  "description": "A simple piece of code that disables apicheck for formly productions improvements to be inserted between apicheck and formly in the bower.json file.",
+  "main": "index.js",
+  "license": "MIT"
+}
